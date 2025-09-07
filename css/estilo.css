@@ -22,8 +22,10 @@
         .btn-primary {
             background-color: var(--primary);
             border: none;
-            padding: 12px 25px;
+            padding: 2%;
             transition: all 0.3s;
+            width: 100%;    
+            text-align: center;
         }
         .btn-primary:hover {
             background-color: var(--primary-dark);
